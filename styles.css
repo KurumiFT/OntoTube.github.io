@@ -77,7 +77,7 @@ h2{
 	right: 0;
 }
 
-@media (min-height: 1921px) { 
+@media (max-width: 1240px) { 
 	.login-form{
 		width: 25vh;
 	}
